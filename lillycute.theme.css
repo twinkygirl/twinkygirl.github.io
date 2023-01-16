@@ -3,12 +3,12 @@
  * @author tears
  * @version 1.0.5
  * @authorId 278543574059057154
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground/
+ * @source https://raw.githubusercontent.com/twinkygirl/twinkygirl.github.io/main/lillycute.theme.css
  */
 
 /* To change stuff like the colors, transparency and background image, change the variables inside the root {}, do NOT change the @import url() */
 
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css);
+@import url(https://raw.githubusercontent.com/twinkygirl/twinkygirl.github.io/main/lilly.theme.css);
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
